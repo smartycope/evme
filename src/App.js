@@ -27,6 +27,9 @@ const questions = [
 ];
 
 
+
+
+
 export default function App() {
   const [step, setStep] = useState(0);
   const [answers, setAnswers] = useState({});
